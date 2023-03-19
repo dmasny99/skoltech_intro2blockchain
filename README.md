@@ -1,6 +1,7 @@
 # Soul Bound Token (SBT) Certification
 Intro to blokchain course final project at Skoltech, 2023.
-Project presentation is available [here](https://docs.google.com/presentation/d/1X6dpyW0HeA-SIlquT45p1n_6wD9WMzO8FsND4YKSvC0/edit#slide=id.p). 
+Project presentation is available [here](https://docs.google.com/presentation/d/1X6dpyW0HeA-SIlquT45p1n_6wD9WMzO8FsND4YKSvC0/edit#slide=id.p).   
+
 Tests of our implementation is shown [here](https://www.youtube.com/watch?v=kFxcmHqjVS4&ab_channel=DmitriiMasnyi).
 # Project structure:
 * ```factory.sol``` - factory smart contract, which deploys smart contracns for organisation (for example, institutions).
