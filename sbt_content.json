@@ -1,0 +1,13 @@
+{   "description" : "Skoltech SBT project",
+    "attributes" : [
+        {
+            "trait_type" : "GPA",
+            "value" : 5.0,
+            "max_value": 5.0
+        },
+        {
+            "trait_type" : "Major",
+            "value": "Master in Computer science"
+        }
+    ]
+}
