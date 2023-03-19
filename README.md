@@ -1,5 +1,6 @@
 # Soul Bound Token (SBT) Certification
-Intro to blokchain course final project at Skoltech, 2023.
+Intro to blokchain course final project at Skoltech, 2023.  
+
 Project presentation is available [here](https://docs.google.com/presentation/d/1X6dpyW0HeA-SIlquT45p1n_6wD9WMzO8FsND4YKSvC0/edit#slide=id.p).   
 
 Tests of our implementation is shown [here](https://youtu.be/kFxcmHqjVS4).
